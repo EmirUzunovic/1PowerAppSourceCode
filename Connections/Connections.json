@@ -1,0 +1,31 @@
+{
+  "94ba2b3d-c89c-473b-8051-e8af0288af21": {
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/69ac8d12fdd34068a790c916a210dfaf",
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1487/1.0.1487.2472/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://thoughtcloud.sharepoint.com/sites/demos/invoicing": {
+        "dataSources": {
+          "Currencies": {
+            "tableName": "4e5850a7-1a53-4249-b091-2400e5f6154f"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Currencies"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "94ba2b3d-c89c-473b-8051-e8af0288af21"
+  }
+}

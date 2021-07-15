@@ -1,0 +1,48 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery1": 4,
+    "galleryTemplate1": 5,
+    "Label1": 6,
+    "Screen1": 3
+  },
+  "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "07/15/2021 21:36:31",
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OldLogoFileName": "bh4nhnhc.jpg",
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "Currencies": 0,
+    "CustomGallerySample": 1
+  },
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "gallery": 0,
+    "label": 1
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery1": 0,
+    "galleryTemplate1": 1,
+    "Label1": 2,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0697415,
+    "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.630899,
+    "ErrorCount": 0
+  }
+}

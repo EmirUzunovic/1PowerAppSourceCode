@@ -1,0 +1,17 @@
+Screen1 As screen:
+
+    Gallery1 As gallery.galleryVertical:
+        Items: =Currencies
+        Layout: =Layout.Vertical
+        TemplateSize: =61
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+        Label1 As label:
+            OnSelect: =Select(Parent)
+            Size: =15
+            Text: =ThisItem.'Currency Short Name'
+            X: =6
+            ZIndex: =1
+

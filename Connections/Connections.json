@@ -13,10 +13,10 @@
       "parameterHintsV2": {}
     },
     "datasets": {
-      "https://thoughtcloud.sharepoint.com/sites/demos/invoicing": {
+      "https://thoughtcloud.sharepoint.com/sites/demos/forklift": {
         "dataSources": {
           "Currencies": {
-            "tableName": "4e5850a7-1a53-4249-b091-2400e5f6154f"
+            "tableName": "f2ebb720-ce6d-495c-a5fb-3368263d99f4"
           }
         }
       }

@@ -73,11 +73,11 @@
     "FileID": "c436ad57-09ac-4dc1-a301-165c455c10cd",
     "Id": "ba44680e-e333-4109-b8b1-5e028b9fd0d8",
     "InstrumentationKey": "",
-    "Name": "Basic+canvas+App+Original.msapp",
+    "Name": "Basic+canvas+App+Original+v1.msapp",
     "OriginatingVersion": "1.314"
   },
   "PublishInfo": {
-    "AppName": "Basic canvas App Original",
+    "AppName": "Basic canvas App Original v1",
     "BackgroundColor": "rgba(0, 176, 240, 1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
